@@ -1,0 +1,11 @@
+{
+  "name": "KOROS Sovereign",
+  "short_name": "KOROS",
+  "start_url": "./KOROS_Sovereign.html",
+  "display": "standalone",
+  "background_color": "#030000",
+  "theme_color": "#030000",
+  "orientation": "portrait",
+  "description": "KOROS — offline, on-device neural assistant.",
+  "icons": []
+}
